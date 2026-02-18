@@ -6,21 +6,22 @@
 
 
 <p align="center">
-  🚀 Passionate about Cloud, Automation & Scalable Systems
+  🚀 Passionate about DevOps, Automation & Scalable Infrastructure
 </p>
 
-I am deeply interested in DevOps, Cloud Computing, and Infrastructure Automation.  
-Focused on understanding how modern systems are built, deployed, and scaled using containerization and CI/CD workflows.
+DevOps Enthusiast focused on building reliable, scalable, and automated systems.  
+I enjoy working with cloud platforms, containerized environments, and CI/CD pipelines  
+to transform ideas into production-ready deployments.
 
 ---
 
-## ☸️ Areas of Interest
+## ⚙️ DevOps Focus Areas
 
-- Kubernetes & Container Orchestration  
-- Cloud Infrastructure (AWS)  
-- CI/CD Pipelines  
-- Infrastructure as Code (Terraform)  
-- System Design Fundamentals  
+- ☸️ Kubernetes & Container Orchestration  
+- ☁️ Cloud Infrastructure (AWS)  
+- 🔁 CI/CD Pipeline Engineering  
+- 🏗️ Infrastructure as Code (Terraform)  
+- 🧠 System Design & Architecture Basics  
 
 ---
 
@@ -64,7 +65,7 @@ More projects will be added as I continue building.
 
 ---
 
-## 🎯 Learning Goals
+## 🧠 Scaling My Expertise
 
 - Master Kubernetes in production environments  
 - Build end-to-end CI/CD pipelines  
@@ -75,8 +76,8 @@ More projects will be added as I continue building.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/satyam-kumar-techie)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](satyamdark123@gmail.com)
 
 ---
 <p align="center">
