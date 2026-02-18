@@ -89,11 +89,14 @@ More projects will be added as I continue building.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/satyam-kumar-techie)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](satyamdark123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-techie)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:satyamdark123@gmail.com)
 
 ---
+
 <p align="center">
-  ⚙️ Automate Everything • Scale Fearlessly • Build Relentlessly ⚙️
+⚙ Automate Everything • Scale Fearlessly • Build Relentlessly ⚙
 </p>
+
 
