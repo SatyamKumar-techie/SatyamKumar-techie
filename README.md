@@ -1,78 +1,63 @@
-# Hi there 👋, I'm Satyam
+<h1 align="center">⚡ Satyam Kumar</h1>
 
-🚀 **DevOps Enthusiast**  
-☁️ Cloud & Automation Explorer  
-⚙️ Building Scalable Infrastructure  
+<p align="center">
+  <b>DevOps Enthusiast</b> • Cloud Explorer • Automation Builder
+</p>
 
-I am deeply interested in DevOps, Cloud Computing, and Infrastructure Automation.  
-Focused on understanding how modern systems are built, deployed, and scaled using containerization and CI/CD workflows.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=Design.+Deploy.+Scale.;Learning+Cloud+%26+DevOps;Kubernetes+%7C+Docker+%7C+AWS" />
+</p>
 
 ---
 
-## ☸️ Areas of Interest
+## 🧠 Philosophy
 
-- Kubernetes & Container Orchestration  
-- Cloud Infrastructure (AWS)  
-- CI/CD Pipelines  
+> “Infrastructure should be automated. Deployments should be seamless. Systems should scale.”
+
+I enjoy working around cloud systems, containers, and CI/CD workflows —  
+turning ideas into deployed and running applications.
+
+---
+
+## ⚙️ DevOps Toolkit
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,gitlab,linux,ubuntu,git,github" />
+</p>
+
+---
+
+## 🛠 What I’m Building
+
+- 🔁 Automated CI/CD pipelines  
+- ☁️ AWS-hosted deployments  
+- ☸️ Kubernetes-based applications  
+- 📦 Containerized micro projects  
+
+---
+
+## 📚 Currently Leveling Up
+
+- Advanced Kubernetes concepts  
 - Infrastructure as Code (Terraform)  
-- System Design Fundamentals  
+- System Design Basics  
+- Problem Solving (DSA)  
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🌍 Let’s Connect
 
-### 🚀 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
----
-
-### 💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=flat-square)
+<p align="center">
+  <a href="www.linkedin.com/in/satyam-kumar-techie">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="satyamdark123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-### 🖥 Environment & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🚀 Projects
-
-Currently building small DevOps-focused projects to strengthen practical understanding of:
-
-- Containerized Application Deployment  
-- CI/CD Automation  
-- AWS Infrastructure Setup  
-- Kubernetes Cluster Configuration  
-
-More projects will be added as I continue building.
-
----
-
-## 🎯 Learning Goals
-
-- Master Kubernetes in production environments  
-- Build end-to-end CI/CD pipelines  
-- Automate infrastructure using Terraform  
-- Strengthen system design and problem solving  
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
-
-⭐ Always learning. Always building.
+<p align="center">
+  🚀 Building Cloud-Ready Solutions
+</p>
