@@ -1,8 +1,9 @@
-h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+<h1 align="center">Hi 👋 I'm <span style="color:#00FF88;">Satyam Kumar</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast;Cloud+Explorer;Kubernetes+Learner;Docker+%7C+AWS+%7C+CI%2FCD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=DevOps+Enthusiast;Cloud+Automation+Explorer;Kubernetes+%7C+Docker+%7C+AWS;CI%2FCD+Pipeline+Builder;Design.+Deploy.+Scale." />
 </p>
+
 
 <p align="center">
   🚀 Passionate about Cloud, Automation & Scalable Systems
@@ -78,5 +79,7 @@ More projects will be added as I continue building.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
+<p align="center">
+  ⚙️ Automate Everything • Scale Fearlessly • Build Relentlessly ⚙️
+</p>
 
-⭐ Always learning. Always building.
