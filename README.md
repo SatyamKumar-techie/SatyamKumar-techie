@@ -93,9 +93,9 @@ More projects will be added as I continue building.
   <a href="https://www.linkedin.com/in/satyam-kumar-techie">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:satyamdark123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&to=satyamdark123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
